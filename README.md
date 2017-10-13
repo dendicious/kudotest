@@ -5,7 +5,7 @@
 - Profile
 - Edit Profile
 - Create User
-- Permission & Authorization
+- Permission & Authorization (optional)
 - All code should be Unit Tested
 
 Use bahasa Indonesia for table name and column name and all text in cms you created.
@@ -22,7 +22,7 @@ Addition:
 - Log your working hours on creating this cms.
 - Publish your code on github.
 - use your preferred Programming Language **excluding PHP/Java/.Net**.
-- usage of **Python Flask Framework** is a plus.
+- usage of **Python or Go** is a plus.
 
 Instructions:
 - Fork this repo.
